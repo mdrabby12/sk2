@@ -1,0 +1,118 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{ color: rgb(0, 0, 0);  }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+  
+  .fa-facebook {
+   
+    color: rgb(16, 241, 73);
+  }
+  
+  .fa-twitter {
+   
+    color: rgb(139, 236, 11);
+  }
+  
+  .fa-google {
+   
+    color: rgb(181, 240, 42);
+  }
+
+
+.gol img{
+  border-radius: 50%;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.flex{
+  display: flex;
+}
+img{
+  width: 39rem;
+  height: 25rem;
+}
+.taka{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+.min{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: orange;
+}
+.name{
+  font-style: italic;
+  color: rgb(255, 255, 255);
+}
+.btn{
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 123, 0);
+  height: 2rem;
+  width: 6rem;
+  border: none;
+  border-radius: 30px;
+  }
+  .main{
+    border: 2px solid black;
+    margin: -12rem 0 0 4rem;
+  }
+  .picture{
+    margin: 5rem  0 0 5rem;
+  }
+  .pic1{
+    height: 32rem;
+    width: 23rem;
+  }
+  .pic2{
+    height: 25rem;
+    width: 17rem;
+    margin: -25rem 0 0 3rem;
+  }
+  .us{
+    margin-left: 1rem;
+    font-size: 2.3rem;
+    margin-top: 3rem;
+    color: rgb(238, 255, 0);
+  }
+  .yy{
+    margin-left: 1rem;
+    
+  }
+  .rr{
+    margin-left: 1rem;
+    font-size: 4rem;
+    color: rgb(217, 255, 0);
+  }
+  .fol img{
+border-radius: 50%;
+  }
+  .checked {
+    color: rgb(0, 0, 0);
+  }
+
+
+
+
+
+.po{
+  position: fixed;
+}
